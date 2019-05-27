@@ -1,31 +1,9 @@
 # Polyglotv.org documentation 
 
-## Overview
-We are planning to provide a set of tools that can be used for learners and teachers of languages
-
-Our goal is to be the moodle of the second language aquisition
-
-We are looking for video, audio based learning using. 
-
-## Clients
-
-### Web
-
-### Mobile
-
-## Student interface
-
-## Techer interface
-
-## Server
+This project is a documentation project describing the polyglotv.org tools and components
 
 
-
-### Data collections
-
-
-
-## Technology
+##Building the projects
+`sphinx-build -b html source build`
 
 
-## API

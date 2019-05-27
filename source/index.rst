@@ -7,8 +7,17 @@ Welcome to polyglotv-org documentation!
 =======================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents: 
+   overview
+   ptv_audio_component
+   ptv_video_component
+   ptv_editor
+   ptv_server
+   ptv_wizard
+   contribute
+
+
+
 
 
 
